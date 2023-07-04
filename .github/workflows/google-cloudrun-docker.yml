@@ -50,7 +50,7 @@ on:
 
 env:
   PROJECT_ID: sigma-firmament-391809 # TODO: update Google Cloud project id
-  GAR_LOCATION: europe-west1-docker.pkg.dev/sigma-firmament-391809/my-cloudrun-repo # TODO: update Artifact Registry location
+  GAR_LOCATION: europe-west1 # TODO: update Artifact Registry location
   SERVICE: tetris # TODO: update Cloud Run service name
   REGION: europe-west1  # TODO: update Cloud Run service region
 
